@@ -1,0 +1,13 @@
+var
+
+escolha: caractere
+
+início
+
+
+escreva("É terrestre?")
+
+
+
+
+fim
